@@ -1,6 +1,6 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br><br>My name is Adrian Vyne Desquitado
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197610&width=610&lines=Welcome+to+Adrian+Vyne+Desquitado's+Github+profile!)](https://git.io/typing-svg)
 ==============================================================================================================================================
-
+Adrian Vyne Desquitado <br>
 Website Developer, Teacher
 --------------------------
 
