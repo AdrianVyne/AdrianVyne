@@ -32,21 +32,14 @@ Aspiring web developer with a year of freelancing under my belt, constantly expl
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdrianVyne&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianVyne&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVyne&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Socials
+Note: This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
+
+
+### Find Me
 
 <p align="left"> <a href="https://www.github.com/AdrianVyne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vinbeenbin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adrian-vyne-desquitado-532450136/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/vindee1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AdrianVyne"><img src="https://github-readme-stats.vercel.app/api?username=AdrianVyne&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdrianVyne's GitHub stats" /></a>
-
-<a href="http://www.github.com/AdrianVyne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianVyne&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/AdrianVyne"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AdrianVyne&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/AdrianVyne" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVyne&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-Note:This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
