@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197610&width=610&lines=Welcome+to+Adrian+Vyne+Desquitado's+Github+profile!)](https://git.io/typing-svg)
 ==============================================================================================================================================
 Adrian Vyne Desquitado <br>
-Website Developer, Teacher
+Software Developer
 --------------------------
 
 Aspiring web developer with a year of freelancing under my belt, constantly exploring and experimenting with new technologies while also sharing my knowledge through teaching.
 
 * ✉️  You can contact me at [imadrian1234@gmail.com](mailto:imadrian1234@gmail.com)
 * 🧠  I'm learning Machine Learning with Python Data Science
-* 🤝  I'm open to collaborating on a wide range of web development projects, including but not limited to e-commerce websites, content management systems, web applications, and mobile-responsive designs.
-* ⚡  I aspire to be the first programmer to create Artificial general intelligence
+* 🤝  I'm open to collaborating on a wide range of software development projects, including but not limited to API integration, data pipeline, and various software applications.
+* ⚡  I aspire to be in a team of programmers to create Artificial General Intelligence
 
 ### Skills
 
