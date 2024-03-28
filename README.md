@@ -32,14 +32,7 @@ Aspiring web developer with a year of freelancing under my belt, constantly expl
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdrianVyne&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianVyne&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVyne&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-Note: This languages is only a metric that my public code consists of. Also, this doesn't reflect experience or skill level.
-
 
 ### Find Me
 
-<p align="left"> <a href="https://www.github.com/AdrianVyne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vinbeenbin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adrian-vyne-desquitado-532450136/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/vindee1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/AdrianVyne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vinbeenbin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/vindee1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
