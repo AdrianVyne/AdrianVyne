@@ -7,7 +7,6 @@ Software Developer
 Aspiring web developer with a year of freelancing under my belt, constantly exploring and experimenting with new technologies while also sharing my knowledge through teaching.
 
 * ✉️  You can contact me at [imadrian1234@gmail.com](mailto:imadrian1234@gmail.com)
-* 🧠  I'm learning Machine Learning with Python Data Science
 * 🤝  I'm open to collaborating on a wide range of software development projects, including but not limited to API integration, data pipeline, and various software applications.
 * ⚡  I aspire to be in a team of programmers to create Artificial General Intelligence
 
